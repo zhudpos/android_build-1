@@ -80,6 +80,7 @@ FRAMEWORKS_BASE_SUBDIRS := \
 	    media/mca/effect \
 	    media/mca/filterfw \
 	    media/mca/filterpacks \
+            suda \
 	    drm \
 	    opengl \
 	    sax \

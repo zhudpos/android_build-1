@@ -36,7 +36,7 @@ PRODUCT_PROPERTY_OVERRIDES := \
     ro.config.ringtone=The_big_adventure.ogg
 
 # Put en_US first in the list, so make it default.
-PRODUCT_LOCALES := en_US
+PRODUCT_LOCALES := zh_CN
 
 # Get some sounds
 $(call inherit-product-if-exists, frameworks/base/data/sounds/GoogleAudio.mk)
