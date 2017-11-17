@@ -34,6 +34,7 @@ PRODUCT_PACKAGES += \
     DownloadProviderUi \
     ExternalStorageProvider \
     FusedLocation \
+    ForceStop \
     InputDevices \
     KeyChain \
     Keyguard \
